@@ -1,6 +1,6 @@
-# interview
+# interview to: Ricardo Ignacio Arellano Carvajal 
 
-This was a research project by Emil about p5.js in 2019
+A research project by Emil Sandberg about p5.js in 2019
 
 ..
 
